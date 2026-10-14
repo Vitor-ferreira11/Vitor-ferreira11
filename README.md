@@ -1,4 +1,16 @@
 <h2 align="left">Hi 👋! My name is Vitor Ferreira. I'm a systems analyst based in Recife, Brazil.</h2>
+## Projetos de estudo
+
+| Projeto | O que pratiquei |
+| --- | --- |
+| [Calculadora de combustível](https://github.com/Vitor-ferreira11/Calculadora-de-combust-vel) | React, TypeScript, formulários e validação de preços |
+| [Lista de tarefas](https://github.com/Vitor-ferreira11/Lista-de-tarefas) | JavaScript, manipulação do DOM e armazenamento local |
+| [Pokédex](https://github.com/Vitor-ferreira11/Projeto-Pokemon-DIO) | Consulta de API, paginação e tratamento de falhas |
+| [TechTaste](https://github.com/Vitor-ferreira11/Aplicativo-Restaurante) | Flutter, catálogo local e estado da sacola com Provider |
+| [Prime Flix](https://github.com/Vitor-ferreira11/prime-flix) | React, catálogo de filmes, rotas e favoritos |
+| [Portfólio](https://github.com/Vitor-ferreira11/Projeto-portifolio) | HTML, CSS, navegação e apresentação dos projetos |
+
+São projetos educacionais. Consulte os READMEs de cada repositório para execução e limitações.
 
 ###
 
