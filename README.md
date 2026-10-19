@@ -2,7 +2,7 @@
 
 Analista de sistemas em Recife, com foco de estudos em **desenvolvimento front-end com JavaScript, React e TypeScript**. Também desenvolvo projetos educacionais em Flutter.
 
-[Conheça meu portfólio](https://vitor-ferreira11-portfolio.cozyseed5.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/vitor-ferreira-49b9b4209/) · [Contato](mailto:jvg.ferreira2001@gmail.com)
+[Conheça meu portfólio](https://vitor-ferreira-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/vitor-ferreira-49b9b4209/) · [Contato](mailto:jvg.ferreira2001@gmail.com)
 
 ## Projetos em destaque
 
