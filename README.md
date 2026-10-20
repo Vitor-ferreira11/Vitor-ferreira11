@@ -1,23 +1,33 @@
 # Olá, sou Vitor Ferreira 👋
 
-Analista de sistemas em Recife, com foco de estudos em **desenvolvimento front-end com JavaScript, React e TypeScript**. Também desenvolvo projetos educacionais em Flutter.
+**Analista de Sistemas · Recife, PE**
 
-[Conheça meu portfólio](https://vitor-ferreira-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/vitor-ferreira-49b9b4209/) · [Contato](mailto:jvg.ferreira2001@gmail.com)
+Desenvolvo projetos de aplicações web, interfaces e APIs com **JavaScript, React, TypeScript, Node.js e PostgreSQL**. Também tenho experiências com Flutter e Dart.
+
+[Conheça meu portfólio](https://vitor-ferreira-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vitor-ferreira-49b9b4209/) · [WhatsApp](https://wa.me/5581981643983) · [E-mail](mailto:jvg.ferreira2001@gmail.com)
 
 ## Projetos em destaque
 
-| Projeto | O que pratiquei | Experimente |
+| Projeto | O que desenvolvi | Acesso |
 | --- | --- | --- |
-| [Calculadora de combustível](https://github.com/Vitor-ferreira11/Calculadora-de-combust-vel) | React, TypeScript, formulários e validação de preços | [Demonstração](https://vitor-ferreira11-calculadora.cozyseed5.chatgpt.site) |
-| [Lista de tarefas](https://github.com/Vitor-ferreira11/Lista-de-tarefas) | JavaScript, DOM e persistência no navegador | [Demonstração](https://vitor-ferreira11-tarefas.cozyseed5.chatgpt.site) |
-| [Pokédex](https://github.com/Vitor-ferreira11/Projeto-Pokemon-DIO) | API, paginação e tratamento de falhas | [Demonstração](https://vitor-ferreira11-pokedex.cozyseed5.chatgpt.site) |
-| [TechTaste](https://github.com/Vitor-ferreira11/Aplicativo-Restaurante) | Flutter, Provider, busca, filtros e sacola persistida | Execução local documentada |
-| [Prime Flix](https://github.com/Vitor-ferreira11/prime-flix) | React, rotas, integração com TMDB e favoritos | Exige chave própria do TMDB |
+| **HelpDesk Pro** | Sistema de chamados com React, TypeScript, Node.js e PostgreSQL: permissões, histórico e auditoria | [Apresentação no portfólio](https://vitor-ferreira-portfolio.vercel.app/#helpdesk-pro) · Código privado; homologação local |
+| [**WP.GG**](https://github.com/Vitor-ferreira11/wp-gg) | Aplicação com Next.js e TypeScript para explorar classificação, estatísticas e histórico de partidas | [Demonstração pública](https://wp-gg.vercel.app/demo) com dados fictícios |
+| [**Portfólio**](https://github.com/Vitor-ferreira11/Projeto-portifolio) | Site responsivo com HTML, CSS, JavaScript e opções acessíveis de contato | [Visitar site](https://vitor-ferreira-portfolio.vercel.app/) |
+| [**TechTaste**](https://github.com/Vitor-ferreira11/Aplicativo-Restaurante) | Aplicativo Flutter com busca, filtros, gerenciamento de estado e sacola persistida | Execução local documentada |
+| [**Calculadora de combustível**](https://github.com/Vitor-ferreira11/Calculadora-de-combust-vel) | Comparação de preços com React, TypeScript e validação de formulários | [Demonstração](https://vitor-ferreira11-calculadora.cozyseed5.chatgpt.site) |
+| [**Pokédex**](https://github.com/Vitor-ferreira11/Projeto-Pokemon-DIO) | Integração com PokéAPI, paginação e tratamento de falhas | [Demonstração](https://vitor-ferreira11-pokedex.cozyseed5.chatgpt.site) |
 
-São projetos de estudo. Os READMEs explicam execução, testes e limitações; o TechTaste simula a finalização sem pagamento nem envio de pedidos.
+São projetos de estudo com escopo e limitações documentados. O HelpDesk Pro ainda não está em produção. O TechTaste simula a finalização, sem pagamento ou envio real de pedidos.
 
-## Tecnologias que pratico
+Outros estudos: [Lista de tarefas](https://github.com/Vitor-ferreira11/Lista-de-tarefas), com persistência no navegador, e [Prime Flix](https://github.com/Vitor-ferreira11/prime-flix), com React, rotas e favoritos; a consulta de filmes exige chave própria do TMDB.
 
-HTML · CSS · JavaScript · TypeScript · React · Flutter · Dart · Git
+## Tecnologias utilizadas nos projetos
 
-O foco atual está em interfaces responsivas, integração com APIs, validação de formulários, acessibilidade, organização do código e testes automatizados.
+- **Interfaces:** HTML, CSS, JavaScript, TypeScript e React.
+- **APIs e dados:** Node.js, Fastify, PostgreSQL e Prisma.
+- **Mobile:** Flutter e Dart.
+- **Ferramentas:** Git, GitHub e Vercel.
+
+## Como desenvolvo
+
+Meus projetos incluem prática de interfaces responsivas, integração com APIs, validação de dados, acessibilidade, controle de acesso e testes automatizados. Os repositórios públicos descrevem como executar as aplicações e quais são seus limites.
